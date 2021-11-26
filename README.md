@@ -1,4 +1,4 @@
-# JetBrains Coding Challenge
+# Coding Challenge
 
 In this coding challenge, I was required to fine-tune and evaluate a small pre-trained model (gs://t5-data/pretrained_models/mt5/small) on a new task of predicting the language a given text is written in (e.g. using the 14 languages from XNLI dataset)
 
